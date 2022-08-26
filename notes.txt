@@ -1,0 +1,10 @@
+
+- game engines:
+    - mention totals (~6.2k games)
+    - stacked bar chart displaying for each year the top 5 engines
+    - pie chart of top 5 total, inc. “others” as everything aggregated except the top 4 ones
+    - adjacency matrix showing each engine which years had at least 1 release
+        - can be sorted alphabethically, by frequency
+
+
+to add as further info: https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74
